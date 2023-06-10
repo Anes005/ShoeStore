@@ -37,6 +37,6 @@ const initialState = {
      )
  }
 
- export const useState = () => React.useContext(ShopContext);
+ export const useShop = () => React.useContext(ShopContext);
 
  export default ShopContext;

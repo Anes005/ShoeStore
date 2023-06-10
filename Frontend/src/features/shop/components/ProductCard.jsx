@@ -3,6 +3,7 @@ import {StarIcon} from'@heroicons/react/24/solid';
 import { useCart } from "../../cart/context/cartContext";
 import { useAuth } from "../../auth/context/AuthContext";
 
+
 function ProductCard(product) {
  const renderStars = (rating) => {
     let stars = [];

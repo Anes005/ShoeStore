@@ -1,0 +1,974 @@
+[{
+    "_id":{ 
+      "$oid":"640342f45a74c126bc8f5af5"
+    },
+    "name": " air max 97 plus",
+    "image" : "https://th.bing.com/th/id/R.074f8b17fd1fd728f77e8d5f43132165?rik=8G%2b3EtRGm27Ryw&riu=http%3a%2f%2fwww.sportfrsoldes.com%2fimages%2fproducts%2fnike+air+max+plus+tn+requin+3+tn+tuned+97+beige(4).jpg%3fosCsid%3d9chql87vf4jfugpvhn01oda5a0&ehk=bhOK%2brq2jl8F3i9WNs1%2bZ0y6dtrvwIqzqtCHQetUVhw%3d&risl=&pid=ImgRaw&r=0",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" : 4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 300,
+        "currency": "USD"
+      }, {
+        "value": 280,
+        "currency": "EUR"
+      },
+      {
+        "value": 320,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "6403471d1e1920e02459ae34"
+    } ,
+    "name": "air max 97 plus",
+    "image" : "https://ae01.alicdn.com/kf/HTB1PbLfevjM8KJjSZFsq6xdZpXaK/2018-Nike-Shoes-air-nike-max-97-Men-Sport-Shoes-Skate-Shoes-EUR-SIZE-40-46.jpg_640x640.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" : 3,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 300,
+        "currency": "USD"
+      }, {
+        "value": 280,
+        "currency": "EUR"
+      },
+      {
+        "value": 320,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "air max 97 plus",
+    "image" : "https://images.yepbrand.ru/202010/s-433877_5/nike-air-max-97-shoes-for-men-433877.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" : 3.5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 300,
+        "currency": "USD"
+      }, {
+        "value": 280,
+        "currency": "EUR"
+      },
+      {
+        "value": 320,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "air max 97 plus",
+    "image" : "https://bitsneakers.es/storage/images/image?remote=https:%2F%2Fbitsneakers.es%2FWebRoot%2FStore24%2FShops%2F6348acfb-5c89-40db-b383-64a5a277d0eb%2F5D46%2FF2D2%2F42AA%2F04C5%2F454F%2F0A48%2F355B%2F0489%2Fdaba0c18.jpg&shop=6348acfb-5c89-40db-b383-64a5a277d0eb&width=600&height=2560",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" : 5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 300,
+        "currency": "USD"
+      }, {
+        "value": 280,
+        "currency": "EUR"
+      },
+      {
+        "value": 320,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "air max 97 plus",
+    "image" : "https://th.bing.com/th/id/OIP.WtsiZ715vtAUXYCINPX7lAHaE8?pid=ImgDet&w=800&h=534&rs=1",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" : 4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 300,
+        "currency": "USD"
+      }, {
+        "value": 280,
+        "currency": "EUR"
+      },
+      {
+        "value": 320,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "nike tn ",
+    "image" : "https://www.zarno.fr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_tn_blanc-486rhn_1.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :3 ,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 280,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "nike tn ",
+    "image" : "https://th.bing.com/th/id/R.b700840501e95bfd408b4bf61845d38b?rik=S0IYC95AGpcQcw&riu=http%3a%2f%2fwww.chaussure-soldes-fr.com%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f1200x%2f040ec09b1e35df139433887a97daa66f%2fs%2fo%2fsoldes-nouveau-officielle-boutique-nike-air-max-tn-tuned-1---nike-tn-2013-chaussurse-pour-homme-blanc-argent-pas-cher-livraison-gratuit-14725-2%2fnike-running-chaussures-air-max-tn-tuned-1-tn-blanc-argent.jpg&ehk=o0R%2bbPbGM4N05qxi6KROSImKkT26zsXTPD%2bOVzmQt38%3d&risl=&pid=ImgRaw&r=0",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 280,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "nike tn ",
+    "image" : "https://th.bing.com/th/id/R.cc091b0f3f3988cca49c052c57650408?rik=BQqxuMtq%2fEpNTA&riu=http%3a%2f%2fwww.boutiquetnofficiel.fr%2fHimages%2fair-max-nike-tn-requin-nike-tuned-1-chaussures-pas-cher-pour-homme-blanc-bleu-566.jpg&ehk=L2cgxh3jcaVrZLp2hgen4SqSrs4k7e7hIPilhznMf9c%3d&risl=&pid=ImgRaw&r=0",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :3.5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 280,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "nike tn ",
+    "image" : "https://i.pinimg.com/736x/64/1b/c9/641bc93bcf15b70cc330fe7232dbd1b7.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5 ,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 280,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "Air Force 1",
+    "image" : "./img01.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 220,
+        "currency": "USD"
+      }, {
+        "value": 199,
+        "currency": "EUR"
+      },
+      {
+        "value": 200,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Air Force 1",
+    "image" : "./img02.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4.5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 220,
+        "currency": "USD"
+      }, {
+        "value": 199,
+        "currency": "EUR"
+      },
+      {
+        "value": 200,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+      } ,
+    "name": "Air Force 1",
+    "image" : "./img03.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 220,
+        "currency": "USD"
+      }, {
+        "value": 199,
+        "currency": "EUR"
+      },
+      {
+        "value": 200,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "Air Force 1 Haute",
+    "image" : "./img04.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 280,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 300,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+      } ,
+    "name": "Air Force 1 Haute",
+    "image" : "./img05.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 280,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 300,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+      } ,
+    "name": "Air Force 1 Haute",
+    "image" : "./img06.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4.5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 280,
+        "currency": "USD"
+      }, {
+        "value": 200,
+        "currency": "EUR"
+      },
+      {
+        "value": 300,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Air jordan ",
+    "image" : "./img07.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :3,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 220,
+        "currency": "EUR"
+      },
+      {
+        "value": 340,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+      } ,
+    "name": "Air jordan ",
+    "image" : "./img08.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :3.5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 220,
+        "currency": "EUR"
+      },
+      {
+        "value": 340,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "Air jordan ",
+    "image" : "./img09.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 220,
+        "currency": "EUR"
+      },
+      {
+        "value": 340,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Air jordan ",
+    "image" : "./img10.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 220,
+        "currency": "EUR"
+      },
+      {
+        "value": 340,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Air jordan ",
+    "image" : "./img11.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :5,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 250,
+        "currency": "USD"
+      }, {
+        "value": 220,
+        "currency": "EUR"
+      },
+      {
+        "value": 340,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{ 
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "Fila Disruptor II",
+    "image" : "https://assets.styleship.com/fila/data/productimages/a/4/FS1HTB1071X_WWT.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 180,
+        "currency": "USD"
+      }, {
+        "value": 150,
+        "currency": "EUR"
+      },
+      {
+        "value": 220,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": " Fila MB ",
+    "image" : "https://th.bing.com/th/id/OIP.AygAZrhreYeLxYp-fA4JzwHaHa?pid=ImgDet&w=600&h=600&rs=1",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 200,
+        "currency": "USD"
+      }, {
+        "value": 180,
+        "currency": "EUR"
+      },
+      {
+        "value": 250,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Basket Fila Orbit Low ",
+    "image" : "https://assets.laboutiqueofficielle.com/w_1100,q_auto,f_auto/media/products/2019/07/01/fila_188055_1010730_1FG_20190722T151901_01.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 180,
+        "currency": "USD"
+      }, {
+        "value": 150,
+        "currency": "EUR"
+      },
+      {
+        "value": 220,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{ 
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "PUMA Axelion",
+    "image" : "https://www.famousfootwear.com/blob/product-images/20000/95/84/5/95845_pair_medium.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 180,
+        "currency": "USD"
+      }, {
+        "value": 150,
+        "currency": "EUR"
+      },
+      {
+        "value": 220,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "PUMA RS-X",
+    "image" : "https://cdn.raffaello-network.com/francais/mode-details/536346/1363/puma-chaussures-homme_pumsh-3698180101hard*-drive-large-1.jpg",
+    "description": "great shoes for basketballs",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 180,
+        "currency": "USD"
+      }, {
+        "value": 150,
+        "currency": "EUR"
+      },
+      {
+        "value": 220,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id": {
+      "$oid": "640353464a642d2d2dd877c1"
+    },
+    "name": "Adidas  Adi Ease",
+    "image" : "https://www.surfstitch.com/dw/image/v2/BBCN_PRD/on/demandware.static/-/Sites-ss-master-catalog/default/dw4264ab1c/images/SSDB3112CNVYM/COLLEGIATE-NAVY-MENS-FOOTWEAR-ADIDAS-SKATE-SHOES-SSDB3112CNVYM_3.JPG?sw=460&sh=575&sm=fit",
+    "description": "great casual shoes",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 200,
+        "currency": "USD"
+      }, {
+        "value": 180,
+        "currency": "EUR"
+      },
+      {
+        "value": 250,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  },
+  {
+    "_id":{ 
+      "$oid": "640353464a642d2d2dd877c1"
+    } ,
+    "name": "ADIDAS JUNIOR",
+    "image" : "https://www.cdiscount.com/pdt2/4/3/1/1/700x700/mp03741431/rw/adidas-la-trainer-em-cf-i-chaussures-de-sport-enfa.jpg",
+    "description": "great casual shoes ",
+    "size": "36",
+    "rating" :4,
+    "category": "clothes&shoes",
+    "price": [
+      {
+        "value": 200,
+        "currency": "USD"
+      }, {
+        "value": 180,
+        "currency": "EUR"
+      },
+      {
+        "value": 250,
+        "currency": "CAD"
+      }
+    ],
+    "comments": [
+      {
+        "$oid": "640342f45a74c126bc8f5af5"
+      },
+      {
+        "$oid": "6403471d1e1920e02459ae34"
+      },
+      {
+        "$oid": "640353464a642d2d2dd877c1"
+      }
+    ],
+    "__v": 3
+  }
+]

@@ -1,6 +1,6 @@
 import { Link, Outlet } from "react-router-dom";
 import Footer from "./compnents/footer.jsx";
-import {HomeIcon,ShoppingCartIcon,BuildingStorefrontIcon,UserIcon} from '@heroicons/react/24/solid'
+import {HomeIcon,ShoppingCartIcon,BuildingStorefrontIcon} from '@heroicons/react/24/solid'
 import {useAuth} from "../features/auth/context/AuthContext.jsx"
 import {useCart} from "../features/cart/context/cartContext.jsx"
 
@@ -26,9 +26,8 @@ function RootLayout(props) {
             <ShoppingCartIcon className="w-6"/>
              {(cartCount ==="+99"||cartCount > 0 ) &&<span className="absolute top-4 -righet-1 w-4 h-4 text-center bg-red-500 text-xs rounded-full text-white">{cartActions.getProductsCount()}</span>}
             </div>
-            
             Cart</Link>
-          <Link to="/profile" className="flex item-center gap-1"><UserIcon className="w-6"/> Profile</Link>
+
          {
             isLoggedIn ? <>
             <button className="p-2 text-white bg-red-800 rounded-lg" onClick={authActions.logout}>LogOut</button>
@@ -37,12 +36,8 @@ function RootLayout(props) {
             <Link className="p-2 text-white bg-emerald-300 rounded-lg" to="/signup">SignUp</Link>
             </>
          }
-         
-          
           </nav>
-
        </div>
-    
       </header>
 
       <main className="pt-25 min-h-screen max-w-5x1 mx-auto">
