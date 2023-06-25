@@ -11,8 +11,8 @@ function ProductsGrid() {
     }
 
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 px-4 md:px-0 my-10">
-            {products.map(product => <div key={product._id.$oid}>
+        <div className="mt-28 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 px-4 md:px-0 my-10">
+            {products?.map(product => <div key={product._id.$oid}>
                 <Link to={`./${product._id.$oid}`}>
                     <ProductCard {...product} />
                 </Link>

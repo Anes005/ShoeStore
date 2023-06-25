@@ -7,7 +7,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" : 4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 300,
@@ -43,7 +43,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" : 3,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 300,
@@ -79,7 +79,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" : 3.5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 300,
@@ -115,7 +115,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" : 5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 300,
@@ -151,7 +151,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" : 4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 300,
@@ -183,12 +183,12 @@
     "_id":{
       "$oid": "640353464a642d2d2dd877c1"
     } ,
-    "name": "nike tn ",
-    "image" : "https://www.zarno.fr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_tn_blanc-486rhn_1.jpg",
+    "name": "nike tn",
+    "image" : "https://th.bing.com/th/id/R.5449e33d08a91eed8d640f4b4326e6cc?rik=Qv%2b1z3a3CJmriw&pid=ImgRaw&r=0",
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :3 ,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -224,7 +224,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -260,7 +260,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :3.5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -296,7 +296,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5 ,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -332,7 +332,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 220,
@@ -368,7 +368,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4.5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 220,
@@ -404,7 +404,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 220,
@@ -440,7 +440,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 280,
@@ -476,7 +476,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 280,
@@ -512,7 +512,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4.5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 280,
@@ -548,7 +548,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :3,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -584,7 +584,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :3.5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -620,7 +620,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -656,7 +656,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -692,7 +692,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :5,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 250,
@@ -728,7 +728,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 180,
@@ -764,7 +764,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 200,
@@ -800,7 +800,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 180,
@@ -836,7 +836,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 180,
@@ -872,7 +872,7 @@
     "description": "great shoes for basketballs",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 180,
@@ -908,7 +908,7 @@
     "description": "great casual shoes",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 200,
@@ -944,7 +944,7 @@
     "description": "great casual shoes ",
     "size": "36",
     "rating" :4,
-    "category": "clothes&shoes",
+    "category": "Clothes",
     "price": [
       {
         "value": 200,
@@ -970,5 +970,21 @@
       }
     ],
     "__v": 3
+  },
+
+  {
+    "name": "basket",
+    "description": "test basket",
+    "image": "https://www.zarno.fr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_tn_blanc-486rhn_1.jpg",
+    "size": "L",
+    "color": "balck",
+    "category": "Other",
+    "price": [
+      {
+        "value": 5000,
+        "currency": "USD"
+      }
+    ],
+    "rating": 5
   }
 ]

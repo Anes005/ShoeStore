@@ -20,7 +20,7 @@ function RootLayout(props) {
        <div>
         <nav className="flex space-x-4 items-center text-white">
           <Link to="/" className="flex item-center gap-1"><HomeIcon className="w-6"/>Home</Link>
-          <Link to="/products" className="flex item-center gap-1"><BuildingStorefrontIcon className="w-6"/>Shop</Link>
+          <Link to="/shop" className="flex item-center gap-1"><BuildingStorefrontIcon className="w-6"/>Shop</Link>
           <Link to="/cart" className="flex item-center gap-1">
             <div className="relative">
             <ShoppingCartIcon className="w-6"/>

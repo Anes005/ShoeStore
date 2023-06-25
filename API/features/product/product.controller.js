@@ -4,7 +4,7 @@ import { Product } from "./product.model.js";
 class ProductController {
   async getAllProducts() {
     try {
-      return await Product.getAllProductsDocs();
+      return await Product.find();
     } catch (err) {
       throw {
         code: 1,

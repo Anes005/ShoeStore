@@ -17,11 +17,11 @@ function ProductCard(product) {
     const {actions}=useCart();
     const {isLoggedIn}=useAuth
     return (
-    <div className="p-2">
-        <div className="h-90 w-full">
-            <img src={product.image} alt={product.name}  className="objct.contain w-full h-full max-h-full max-w-full"/>
+    <div className="  p-4 m-8 flex flex-col items-center border-2">
+        <div className="h-96 w-96">
+            <img src={product.image} alt={product.name}  className="objct.contain w-full h-full max-h-full max-w-full rounded-md drop-shadow-xl "/>
         </div>
-        <h3 className="my-4 text-xl">{product.name}</h3>
+        <h3 className="my-4 text-4xl font-bold ">{product.name}</h3>
         <div className="flex items-center gap-3">
             <span>
                 <ul className="flex space-x-1">

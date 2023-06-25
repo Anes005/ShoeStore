@@ -61,7 +61,7 @@ function Home(){
 
             </div>
 
-            <button className="  bg-emerald-300 rounded-2xl m-20 p-3 font-bold text-2xl drop-shadow-lg"> <Link to="/products">see all</Link></button>
+            <button className="  bg-emerald-300 rounded-2xl m-20 p-3 font-bold text-2xl drop-shadow-lg"> <Link to="/shop">see all</Link></button>
     
                
 
